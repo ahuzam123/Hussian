@@ -84,8 +84,8 @@ logo= f'''
 {S}  ██   ██  ██ ██  ██ ███ ██
 {uu}  ██   ██ ██   ██  ███ ███ 
 \033[1;93m=================================
-\033[1;97m Owner  : Hannan x Wasi :/
-\033[1;97m GitHub : Hannan-404 :/
+\033[1;97m Owner  : AHUZAM HUSSAIN :/
+\033[1;97m tIKTOK : ahuxam :/
 \033[1;97m Version:\033[1;92m 0.8 \033[1;97m:/
 \033[1;97m Status : Free :/
 \033[1;97m Notice : Use 10007/10006 For More OK Ids :/
